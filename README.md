@@ -1,3 +1,3 @@
 ## mail
 
-- [spf-dkim-dmarc](./til/mail/spf-dkim-dmarc.md)
+- [spf-dkim-dmarc](./mail/spf-dkim-dmarc.md)
